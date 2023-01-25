@@ -1,0 +1,11 @@
+{
+  "name": "image-resizer",
+  "version": "1.0.0",
+  "description": "This is a demo project developed while learning electronJs. It can resize image based on the input dimension",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Devdeep Ghosh",
+  "license": "MIT"
+}
