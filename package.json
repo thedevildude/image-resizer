@@ -7,6 +7,12 @@
   "scripts": {
     "start": "electron ."
   },
+  "lint-staged": {
+    "*.js": [
+      "eslint",
+      "prettier --write ."
+    ]
+  },
   "author": "Devdeep Ghosh",
   "license": "MIT",
   "dependencies": {
