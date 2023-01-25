@@ -16,11 +16,11 @@
   "author": "Devdeep Ghosh",
   "license": "MIT",
   "dependencies": {
-    "electron": "^22.0.3",
     "resize-img": "^2.0.0",
     "toastify-js": "^1.12.0"
   },
   "devDependencies": {
+    "electron": "^22.0.3",
     "eslint": "^8.32.0",
     "eslint-config-standard": "^17.0.0",
     "eslint-plugin-import": "^2.27.5",
